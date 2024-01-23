@@ -6,5 +6,5 @@ Add
               "s3:*",
               "s3-object-lambda:*"
             ]
- in place of the actions the guide uses
+ in place of the actions the guide uses\n
 On the lambda screen, go to Configuration -> Triggers -> add a trigger for the S3 where incoming zip files go to.
